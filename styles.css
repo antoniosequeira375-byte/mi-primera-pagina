@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mini Marketplace</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <h1>ShopZone</h1>
+    <nav>
+      <a href="#">Inicio</a>
+      <a href="#">Productos</a>
+      <a href="#">Contacto</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Bienvenido a ShopZone</h2>
+    <p>El mejor lugar para comprar productos increíbles</p>
+    <button>Explorar productos</button>
+  </section>
+
+  <main class="products">
+    <div class="card">
+      <img src="https://via.placeholder.com/200" alt="Producto 1">
+      <h3>Producto 1</h3>
+      <p>$19.99</p>
+      <button>Comprar</button>
+    </div>
+
+    <div class="card">
+      <img src="https://via.placeholder.com/200" alt="Producto 2">
+      <h3>Producto 2</h3>
+      <p>$29.99</p>
+      <button>Comprar</button>
+    </div>
+
+    <div class="card">
+      <img src="https://via.placeholder.com/200" alt="Producto 3">
+      <h3>Producto 3</h3>
+      <p>$39.99</p>
+      <button>Comprar</button>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 ShopZone - Marketplace demo</p>
+  </footer>
+
+</body>
+</html>
