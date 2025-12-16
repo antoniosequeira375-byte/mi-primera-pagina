@@ -1,0 +1,58 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mi primera página web</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #24292e;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>¡Hola, GitHub Pages! 🚀</h1>
+    <p>Mi primera página web</p>
+  </header>
+
+  <main>
+    <h2>Sobre mí</h2>
+    <p>
+      Esta es mi primera página web creada con HTML y publicada en GitHub Pages.
+    </p>
+
+    <h2>¿Qué estoy aprendiendo?</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Git y GitHub</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2025 - Hecho con ❤️ y GitHub</p>
+  </footer>
+</body>
+</html>
